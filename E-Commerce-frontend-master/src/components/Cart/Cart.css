@@ -1,0 +1,27 @@
+.cart__emptyMessage {
+  display: grid;
+  place-items: center;
+  color: #626060;
+}
+
+.cart__amount {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.MuiButton-contained {
+  background-color: #f46d4f !important;
+  color: white !important;
+}
+
+.cart__amount > .MuiButton-outlined {
+  border: 1px solid #ff3031 !important;
+  color: #ff3031 !important;
+}
+
+.cart__link {
+  text-decoration: none;
+  color: white;
+}

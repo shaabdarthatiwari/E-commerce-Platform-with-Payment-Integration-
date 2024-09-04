@@ -1,0 +1,8 @@
+[1007/115140.943:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1007/115140.943:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1007/115140.975:ERROR:exception_snapshot_win.cc(100)] thread ID 9328 not found in process
+[1007/115140.975:ERROR:exception_snapshot_win.cc(100)] thread ID 9364 not found in process
+[1007/121731.852:ERROR:file_io.cc(90)] ReadExactly: expected 152, observed 0
+[1011/202102.697:ERROR:settings.cc(430)] Settings version is not 5
+[1012/101041.198:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1018/122822.987:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
